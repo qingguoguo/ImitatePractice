@@ -17,20 +17,22 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void practice(View view) {
-        //getContext().startActivity(new Intent(getContext(), ViewPagerActivity.class));
-        //getContext().startActivity(new Intent(getContext(), TestActivity.class));
-        //getContext().startActivity(new Intent(getContext(), ViewDragHelpActivity.class));
-        //getContext().startActivity(new Intent(getContext(), LockViewActivity.class));
-        //getContext().startActivity(new Intent(getContext(), RecyclerViewTestActivity.class));
-        //getContext().startActivity(new Intent(getContext(), ShapeViewTestActivity.class));
-        //getContext().startActivity(new Intent(getContext(), TabMenuViewActivity.class));
-        //getContext().startActivity(new Intent(getContext(), LoadingCircleActivity.class));
-        //getContext().startActivity(new Intent(getContext(), ParallaxActivity.class));
-        //getContext().startActivity(new Intent(getContext(), RotateLoadingViewActivity.class));
-        //getContext().startActivity(new Intent(getContext(), AopNetWorkActivity.class));
-        //getContext().startActivity(new Intent(getContext(), NavigationBarTestActivity.class));
-        //getContext().startActivity(new Intent(getContext(), TestRjDemo1Activity.class));
-        //getContext().startActivity(new Intent(getContext(), TestRxLoginActivity.class));
+
+//        startActivity(new Intent(this, ViewPagerActivity.class));
+//        startActivity(new Intent(this, TestActivity.class));
+//        startActivity(new Intent(this, ViewDragHelpActivity.class));
+//        startActivity(new Intent(this, LockViewActivity.class));
+//        startActivity(new Intent(this, RecyclerViewTestActivity.class));
+//        startActivity(new Intent(this, ShapeViewTestActivity.class));
+//        startActivity(new Intent(this, TabMenuViewActivity.class));
+//        startActivity(new Intent(this, LoadingCircleActivity.class));
+//        startActivity(new Intent(this, ParallaxActivity.class));
+//        startActivity(new Intent(this, RotateLoadingViewActivity.class));
+//        startActivity(new Intent(this, AopNetWorkActivity.class));
+//        startActivity(new Intent(this, NavigationBarTestActivity.class));
+//        startActivity(new Intent(this, TestRjDemo1Activity.class));
+//        startActivity(new Intent(this, TestRxLoginActivity.class));
+
         startActivity(new Intent(this, RetrofitTestActivity.class));
     }
 
