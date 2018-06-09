@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">青蝈蝈练习项目</string>
+    <string name="title_argb_evaluator">ArgbEvaluator</string>
+    <string name="title_hsv_evaluator">HsvEvaluator</string>
+    <string name="title_of_object">ofObject()</string>
+    <string name="title_property_values_holder">PropertyValuesHolder</string>
+    <string name="title_animator_set">AnimatorSet</string>
+    <string name="title_keyframe">PropertyValuesHolder.ofKeyframe()</string>
+    <string name="animate">animate</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_web_ceo">WEB ANALYTICS</string>
+    <string name="text_web_dev">WEB DEVELOPER</string>
+    <string name="text_e_commerce">e-Commerce</string>
+    <string name="practice">Practice</string>
+    <string name="practicedraw7">PracticeDraw7</string>
+</resources>

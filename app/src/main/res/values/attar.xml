@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ColorTrackTextView">
+        <attr name="startColor" format="color"/>
+        <attr name="endColor" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="RatingBar">
+        <attr name="normalStar" format="reference"/>
+        <attr name="focusStar" format="reference"/>
+        <attr name="maxNum" format="integer"/>
+        <attr name="marginChild" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="LettersBar">
+        <attr name="letterColor" format="color"/>
+        <attr name="letterSelectColor" format="color"/>
+        <attr name="letterSize" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="KgSlidingMenu">
+        <attr name="menuRightWidth" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="QqSlidingMenu">
+        <attr name="qqMenuRightWidth" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="LockView">
+    </declare-styleable>
+
+    <!-- X方向上的位移 -->
+    <attr name="translationXIn" format="float" />
+    <attr name="translationXOut" format="float" />
+    <!-- Y方向上的位移 -->
+    <attr name="translationYIn" format="float" />
+    <attr name="translationYOut" format="float" />
+</resources>

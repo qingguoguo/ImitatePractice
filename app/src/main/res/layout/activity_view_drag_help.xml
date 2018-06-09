@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.qgg.practice.view.VerticalDragListView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ViewDragHelpActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="下面"/>
+
+    <!--<TextView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="200dp"-->
+    <!--android:background="@color/colorAccent"-->
+    <!--android:gravity="center"-->
+    <!--android:text="上面"/>-->
+
+    <ListView
+        android:id="@+id/list_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorAccent"/>
+
+</com.qgg.practice.view.VerticalDragListView>
