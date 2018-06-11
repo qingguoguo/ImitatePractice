@@ -110,4 +110,7 @@ dependencies {
     compile 'com.tbruyelle.rxpermissions2:rxpermissions:0.9.4@aar'
     compile 'com.squareup.okhttp3:logging-interceptor:+'
     implementation project(':sharecomponent')
+
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'com.android.support:support-v4:25.3.0'
 }

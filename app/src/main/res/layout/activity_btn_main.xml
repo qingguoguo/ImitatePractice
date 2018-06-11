@@ -1,5 +1,4 @@
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#f8f8f8"
@@ -10,12 +9,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="practiceDraw7"
-        android:text="@string/practicedraw7"/>
+        android:text="@string/practicedraw7"
+        android:textAllCaps="false" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:onClick="practice"
-        android:text="@string/practice"/>
+        android:text="@string/practice"
+        android:textAllCaps="false" />
 </LinearLayout>
