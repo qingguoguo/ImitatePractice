@@ -35,11 +35,10 @@ import java.lang.reflect.Method;
 import java.util.Map;
 
 
-
 /**
  * @author :qingguoguo
  * @datetime ：2018/4/9
- * @describe :
+ * @describe :仿雅虎视差动画
  */
 
 public class ParallaxCompatViewInflater {

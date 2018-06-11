@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void practiceDraw7(View view) {
-        startActivity(new Intent(this, PracticeDraw7Activity.class));
+        //startActivity(new Intent(this, PracticeDraw7Activity.class));
+        startActivity(new Intent(this, ParallaxActivity.class));
     }
 }
