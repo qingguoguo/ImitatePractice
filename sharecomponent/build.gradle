@@ -34,3 +34,5 @@ dependencies {
     compile files('libs/umeng_social_tool.jar')
     compile files('libs/wechat-sdk-android-with-mta-1.1.6.jar')
 }
+
+apply from: "${rootDir}/config/pmd/codequality-pmd.gradle"
